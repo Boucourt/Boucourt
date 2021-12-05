@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boucourt
 - 👀 I’m interested in C# programming and TDD
-- 🌱 I’m currently learning Selenium
+- 🌱 I got training in Selenium, React with .NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
